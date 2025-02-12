@@ -1,0 +1,7 @@
+Flask==2.0.3
+Flask-JWT-Extended==4.4.3
+psycopg2==2.9.9  # Use psycopg2 for PostgreSQL
+Werkzeug==2.0.3
+flask-bcrypt==1.0.1
+Flask-SQLAlchemy==3.0.3
+SQLAlchemy==2.0.25
